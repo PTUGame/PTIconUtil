@@ -1,2 +1,2 @@
 # PTIconUtil
-Set marking icon of Xcode in Unity
+Set marketing icon of Xcode in Unity
